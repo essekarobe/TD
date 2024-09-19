@@ -1,2 +1,2 @@
-library(usethis)
-usethis::edit_git_config()
+gitcreds::gitcreds_set()
+usethis::use_github()
